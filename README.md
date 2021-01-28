@@ -9,4 +9,4 @@
 - 📫 How to reach me: Drop me a note in twitter @rajat_ghosh
 - 😄 Pronouns: he/his/him
 - ⚡ Fun fact: Tried my hand at standup comedy. 
-
+- [Portfolio](https://gist.github.com/rghosh8/2080f51b404cb1bd3869abb09f3a0320)
